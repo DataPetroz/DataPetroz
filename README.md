@@ -30,7 +30,7 @@ I wield a versatile toolkit, including:
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Looker" width="40px" style="padding-right:10px;" src="https://logos-download.com/wp-content/uploads/2021/01/Looker_Logo.png" />
+<img align="left" alt="Looker" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1437874?s=200&v=4" />
 <img align="left" alt="PowerBI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
 <img align="left" alt="Tableau" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
 <br />
