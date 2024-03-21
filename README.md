@@ -30,7 +30,7 @@ I wield a versatile toolkit, including:
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="LookerStudio" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Looker_logo_black.svg" />
+<img align="left" alt="LookerStudio" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Looker_logo.png" />
 <img align="left" alt="PowerBI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
-<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<img align="left" alt="Tableau" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
 <br />
