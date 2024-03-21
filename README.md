@@ -40,6 +40,6 @@ This portfolio contains four sections:
 ### Data Visualization Tools:
 - <img align="left" alt="Looker" width="40px" src="https://avatars.githubusercontent.com/u/1437874?s=200&v=4" /> Looker
   
-- <img align="left" alt="PowerBI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> PowerBI
+- <img align="left" alt="PowerBI" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> PowerBI
   
-- <img align="left" alt="Tableau" width="100px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" /> Tableau
+- <img align="left" alt="Tableau" width="80px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" /> Tableau
