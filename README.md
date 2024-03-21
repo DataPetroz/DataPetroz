@@ -1,6 +1,6 @@
 # DataPetroz 👾
 
-**'👨‍💻 Data Scientist and Digital Analyst 🛸'**
+**👨‍💻 Data Scientist and Digital Analyst 🛸**
 
 Welcome to the data universe, where numbers dance and insights thrive! I'm DataPetroz, a passionate Data Lover that loves eating, watching animes and playing sports.
 This GitHub repository is a treasure trove of my data-driven endeavors, showcasing my projects through bytes and bits.
@@ -13,7 +13,7 @@ This portfolio contains four sections:
 
      <p align="left">
       <a href="https://www.linkedin.com/in/davide-petrosino-5887371bb/">
-         <img alt="linkedin" title="Connect with me on LinkedIn" src="https://image.flaticon.com/icons/png/512/61/61109.png" width="40px" height="40px"/></a> 
+         <img alt="linkedin" title="Connect with me on LinkedIn" src="[https://image.flaticon.com/icons/png/512/61/61109.png](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" width="40px" height="40px"/></a> 
    </p>
 
 ---
