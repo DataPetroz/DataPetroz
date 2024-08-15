@@ -2,8 +2,7 @@
 
 **👨‍💻 Data Scientist and Digital Analyst 🛸**
 
-Welcome to the data universe, where numbers dance and insights thrive! I'm DataPetroz, a passionate Data Lover that loves eating, watching animes and playing sports.
-This GitHub repository is a treasure trove of my data-driven endeavors, showcasing my projects through bytes and bits.
+Welcome to the data universe, I'm DataPetroz, a passionate Data Lover that loves eating, watching animes and playing sports.
 
 This portfolio contains four sections:
 - EDA Techniques 📊
