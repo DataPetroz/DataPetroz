@@ -32,7 +32,7 @@ This portfolio contains four sections:
 - <img align="left" alt="PostgreSQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> PostgreSQL
 
 ### Analytics Platforms:
-- <img align="left" alt="Piwik PRO" width="40px" src="[https://www.4ng.nl/media/4wsj1ttn/piwik-pro-logo.png?rmode=crop&ranchor=center&quality=80](https://logowik.com/content/uploads/images/piwik-pro9288.jpg)" /> Piwik PRO
+- <img align="left" alt="Piwik PRO" width="40px" src="https://logowik.com/content/uploads/images/piwik-pro9288.jpg" /> Piwik PRO
   
 - <img align="left" alt="Google Analytics" width="40px" src="https://www.vixendigital.com/wp-content/uploads/2023/04/Logo_Google_Analytics.png" /> Google Analytics
 
